@@ -28,8 +28,11 @@ Publications
 _(* stands for equal contribution, &dagger; stands for corresponding authors)_
 
 - __DesignWatch: Analyzing Users' Operations of Mobile Apps Based on Screen Recordings__
+
   Xiucheng Zhang, __Yixin Zeng*__, Qichang Li*, Guanyi Chen, Qianyao Xu, Xiaozhu Hu, Zhenhui<sup>&dagger;</sup>
+
   _MobileHCI '24 Adjunct: Adjunct Proceedings of the 26th International Conference on Mobile Human-Computer Interaction_
+  
   _[Paper](https://dl.acm.org/doi/10.1145/3640471.3680231)_
 
 
@@ -46,7 +49,7 @@ _(* stands for equal contribution, &dagger; stands for corresponding authors)_
 
 
 
-  
+
 <!-- 
 A data-driven personal website
 ======
