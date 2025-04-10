@@ -20,6 +20,7 @@ My research interests lie in **Robotics** and Deep **Learning**, with a particul
 Education
 ======
 - **B.Eng, School of Artificial Intelligence, Sun Yat-sen University.**
+
  Zhuhai, 2021.09 - present
 
 
@@ -32,7 +33,7 @@ _(* stands for equal contribution, &dagger; stands for corresponding authors)_
   Xiucheng Zhang, __Yixin Zeng*__, Qichang Li*, Guanyi Chen, Qianyao Xu, Xiaozhu Hu, Zhenhui<sup>&dagger;</sup>
 
   _MobileHCI '24 Adjunct: Adjunct Proceedings of the 26th International Conference on Mobile Human-Computer Interaction_
-  
+
   _[Paper](https://dl.acm.org/doi/10.1145/3640471.3680231)_
 
 
