@@ -19,9 +19,9 @@ My research interests lie in **Robotics** and Deep **Learning**, with a particul
 
 Education
 ======
-- **B.Eng, School of Artificial Intelligence, Sun Yat-sen University.**
+- __B.Eng, School of Artificial Intelligence, Sun Yat-sen University.__
 
- Zhuhai, 2021.09 - present
+  Zhuhai, 2021.09 - present
 
 
 Publications
