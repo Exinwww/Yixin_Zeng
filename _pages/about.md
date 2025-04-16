@@ -12,7 +12,9 @@ redirect_from:
 About me
 ======
 
-Hello there, I'm Yixin Zeng(曾沂鑫), a senior undergraduate student at the School of Artificial Intelligence, Sun Yat-sen University. I am currently an intern at the [SmarT Autonomous Robotics (STAR)](http://sysu-star.com/), supervised by Prof. Boyu Zhou.
+Hello there, I'm Yixin Zeng(曾沂鑫), a senior undergraduate student at the School of Artificial Intelligence, Sun Yat-sen University. 
+
+I am currently an intern at the [SmarT Autonomous Robotics (STAR)](http://sysu-star.com/), supervised by Prof. Boyu Zhou.
 
 
 My research interests lie in **Robotics** and Deep **Learning**, with a particular focus on **Perception** for *mobile robots*.
@@ -30,7 +32,7 @@ _(* stands for equal contribution, &dagger; stands for corresponding authors)_
 
 - __DesignWatch: Analyzing Users' Operations of Mobile Apps Based on Screen Recordings__
 
-  Xiucheng Zhang, __Yixin Zeng*__, Qichang Li*, Guanyi Chen, Qianyao Xu, Xiaozhu Hu, Zhenhui<sup>&dagger;</sup>
+  Xiucheng Zhang, **Yixin Zeng**\*, Qichang Li\*, Guanyi Chen, Qianyao Xu, Xiaozhu Hu, Zhenhui<sup>&dagger;</sup>
 
   _MobileHCI '24 Adjunct: Adjunct Proceedings of the 26th International Conference on Mobile Human-Computer Interaction_
 
