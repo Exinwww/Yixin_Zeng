@@ -30,6 +30,11 @@ Publications
 ======
 _(* stands for equal contribution, &dagger; stands for corresponding authors)_
 
+- __DynamicPose: Real-time and Robust 6D Object Pose Tracking for Fast-Moving Cameras and Objects__
+  Tingbang Liang\*, **Yixin Zeng**\*, JiaTong Xie, Boyu Zhou<sup>&dagger;</sup>
+  _IROS 2025_
+  _[Video](http://xhslink.com/a/U3WUSAKxpJTdb)_ | _[Code](https://github.com/Robotics-STAR-Lab/DynamicPose)_ 
+
 - __DesignWatch: Analyzing Users' Operations of Mobile Apps Based on Screen Recordings__
 
   Xiucheng Zhang, **Yixin Zeng**\*, Qichang Li\*, Guanyi Chen, Qianyao Xu, Xiaozhu Hu, Zhenhui<sup>&dagger;</sup>
