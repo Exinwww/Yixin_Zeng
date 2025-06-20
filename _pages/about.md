@@ -35,12 +35,12 @@ _(* stands for equal contribution, &dagger; stands for corresponding authors)_
   Tingbang Liang\*, **Yixin Zeng**\*, JiaTong Xie, Boyu Zhou<sup>&dagger;</sup>
 
   _IROS 2025_
-  
+
   _[Video](http://xhslink.com/a/U3WUSAKxpJTdb)_ | _[Code](https://github.com/Robotics-STAR-Lab/DynamicPose)_ 
 
 - __DesignWatch: Analyzing Users' Operations of Mobile Apps Based on Screen Recordings__
 
-  Xiucheng Zhang, **Yixin Zeng**\*, Qichang Li\*, Guanyi Chen, Qianyao Xu, Xiaozhu Hu, Zhenhui<sup>&dagger;</sup>
+  Xiucheng Zhang, **Yixin Zeng**\*, Qichang Li\*, Guanyi Chen, Qianyao Xu, Xiaozhu Hu, Zhenhui Peng<sup>&dagger;</sup>
 
   _MobileHCI '24 Adjunct: Adjunct Proceedings of the 26th International Conference on Mobile Human-Computer Interaction_
 
